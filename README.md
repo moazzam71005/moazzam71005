@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Moazzam!</h1>
 <h3 align="center">Machine Learning Engineer & Full-Stack Developer. Software Engineering sopho at NUST.</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+<!--<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhqNXpyYjBkbGp0emp2N3Myb29ubHc1ZWxrMHpscm9ibngyc3F1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="500">-->
 <br><br>
 
 - 🌱 I’m currently learning **Deep Learning models, Transformers, Neural Networks.**
