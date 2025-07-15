@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Deep Learning models, Transformers, Neural Networks.**
 
-- 👨‍💻 All of my projects are available at [https://muhammad-moazzam-imran.vercel.app/](https://muhammad-moazzam-imran.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://muhammad-moazzam-imran.vercel.app/](https://muhammad-moazzam-imran.vercel.app/)-->
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **m.moazzamimran@gmail.com**
 
-- 📄 Know about my experiences [https://muhammad-moazzam-imran.vercel.app/](https://muhammad-moazzam-imran.vercel.app/)
+<!-- - 📄 Know about my experiences [https://muhammad-moazzam-imran.vercel.app/](https://muhammad-moazzam-imran.vercel.app/) -->
 
 - ⚡ Fun fact: **Not a typical cs major xD, I love to have fun too! Gaming, swimming, football, eating, driving!**
 
