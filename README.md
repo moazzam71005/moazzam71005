@@ -14,7 +14,7 @@
 
 <!-- - 📄 Know about my experiences [https://muhammad-moazzam-imran.vercel.app/](https://muhammad-moazzam-imran.vercel.app/) -->
 
-- ⚡ Fun fact: **Not a typical cs major xD, I love to have fun too! Gaming, swimming, football, eating, driving!**
+- ⚡ Fun fact: **Not a typical cs major xD, I love to have fun too! Gaming, swimming, football, eating!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
